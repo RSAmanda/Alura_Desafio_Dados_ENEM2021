@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=L-DunLY-XDc
 
 ## Dados utilizados
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+obs: Não subi o .csv utilizado por ser um arquivo muito grande.
 
 ### Tópicos apredentados durante a aula
 - Aspectos gerais do google colab;
