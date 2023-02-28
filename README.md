@@ -39,4 +39,4 @@ obs: Não subi o .csv utilizado por ser um arquivo muito grande.
 
 
 # Atenção
-Lembrando que o objetivo do desafio não é uma análise e interpretação abrangente dos dados, mas sim explorar tipos e como fazer gráficos no Python.
+Lembrando que o objetivo do desafio não é uma análise e interpretação abrangente dos dados, mas sim explorar a manipulação de dados e como fazer gráficos no Python para pessoas iniciantes na linguagem.
